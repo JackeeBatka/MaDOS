@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpjWYxnihhd4P3G0BhMB9ReG
+https://www.youtube.com/watch?v=9WHwfhtIjJw&list=PLsu3nQRCX0RIjLN0eUNzQbDFyfz8E_DJi
+https://medium.com/@sumeyyaaktas/part-1-writing-a-custom-x86-bootloader-with-ehci-support-from-scratch-43cb7a5b736d
+
